@@ -1,0 +1,16 @@
+C:\Users\karishma\source\repos\BankAccountProgram\BankAccountProgram\bin\Debug\BankAccountProgram.exe.config
+C:\Users\karishma\source\repos\BankAccountProgram\BankAccountProgram\bin\Debug\BankAccountProgram.exe
+C:\Users\karishma\source\repos\BankAccountProgram\BankAccountProgram\bin\Debug\BankAccountProgram.pdb
+C:\Users\karishma\source\repos\BankAccountProgram\BankAccountProgram\obj\Debug\BankAccountProgram.csproj.AssemblyReference.cache
+C:\Users\karishma\source\repos\BankAccountProgram\BankAccountProgram\obj\Debug\BankAccountProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\karishma\source\repos\BankAccountProgram\BankAccountProgram\obj\Debug\BankAccountProgram.csproj.CoreCompileInputs.cache
+C:\Users\karishma\source\repos\BankAccountProgram\BankAccountProgram\obj\Debug\BankAccountProgram.exe
+C:\Users\karishma\source\repos\BankAccountProgram\BankAccountProgram\obj\Debug\BankAccountProgram.pdb
+C:\Users\karishma\source\repos\Csharp\BankAccountProgram\bin\Debug\BankAccountProgram.exe.config
+C:\Users\karishma\source\repos\Csharp\BankAccountProgram\bin\Debug\BankAccountProgram.exe
+C:\Users\karishma\source\repos\Csharp\BankAccountProgram\bin\Debug\BankAccountProgram.pdb
+C:\Users\karishma\source\repos\Csharp\BankAccountProgram\obj\Debug\BankAccountProgram.csproj.AssemblyReference.cache
+C:\Users\karishma\source\repos\Csharp\BankAccountProgram\obj\Debug\BankAccountProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\karishma\source\repos\Csharp\BankAccountProgram\obj\Debug\BankAccountProgram.csproj.CoreCompileInputs.cache
+C:\Users\karishma\source\repos\Csharp\BankAccountProgram\obj\Debug\BankAccountProgram.exe
+C:\Users\karishma\source\repos\Csharp\BankAccountProgram\obj\Debug\BankAccountProgram.pdb
